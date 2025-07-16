@@ -17,6 +17,6 @@ Este es un espacio creado para desarrolladores, entusiastas y profesionales de L
 # Unete ahora via redes sociales ⌨️
 ![WebPage](https://img.shields.io/badge/web-6200d8?style=for-the-badge&logo=htmx)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://chat.whatsapp.com/DTtxkTXtjvIJgdnI1Kwx0x)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/UrmTMCUa9k)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/OSI-Latam/)
